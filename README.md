@@ -1,9 +1,39 @@
 # Heart-Disease-Prediction-Model-with-Web-Application
 Logistic regression model for classifying heart disease patients by using data from the Streamlit web page. 
 
+<br>
+
 ## Tools
 
-## This Repository Included
+> **For Model**
+- numpy
+- pandas
+- sklearn
+- dataset : https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
 
-### *Disclaimer
-This project is for educational purpose only. It is the University's project in AI subject
+> **For Web Application**
+- streamlit
+- PIL
+
+<br>
+
+## This Repository Included
+- **HeartDiseasePrediction.ipynb**
+  <br>
+  For using in Colab or Jupyter and overviewing the model and data
+  <br>
+- **app.py**
+  <br>
+  This is web application file with easier approach to the model
+  <br>
+- **dataset.csv**
+  <br>
+  The data for training a heart disease prediction model from Kaggle.
+  <br>
+  Can be download directly at https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
+  <br>
+
+<br>
+
+### \*\* Disclaimer \*\*
+This project is for educational purpose only. It is the University's project in AI subject.
