@@ -28,12 +28,16 @@ Logistic regression model using Python for classifying heart disease patients by
   <br>
 - **dataset.csv**
   <br>
-  The data for training a heart disease prediction model from Kaggle.
+  The data for training a heart disease prediction model from Kaggle
   <br>
   Can be download directly at https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
+  <br>
+- **sample_data.txt**
+  <br>
+  For copying data to paste it directy
   <br>
 
 <br>
 
 ### \*\* Disclaimer \*\*
-This project is for educational purpose only. It is the University's project in AI subject.
+This project is for educational purpose only. It is the University's project in AI subject
