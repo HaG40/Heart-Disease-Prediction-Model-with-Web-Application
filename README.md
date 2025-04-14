@@ -5,5 +5,5 @@ Logistic regression model for classifying heart disease patients by using data f
 
 ## This Repository Included
 
-## Disclaimer
+### *Disclaimer
 This project is for educational purpose only. It is the University's project in AI subject
