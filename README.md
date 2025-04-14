@@ -18,15 +18,15 @@ Logistic regression model using Python for classifying heart disease patients by
 <br>
 
 ## This Repository Included
-- **HeartDiseasePrediction.ipynb**
+> **HeartDiseasePrediction.ipynb**
   <br>
   For using in Colab or Jupyter and overviewing the model and data
   <br>
-- **app.py**
+> **app.py**
   <br>
   This is web application file with easier approach to the model
   <br>
-- **dataset.csv**
+> **dataset.csv**
   <br>
   The data for training a heart disease prediction model from Kaggle.
   <br>
