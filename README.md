@@ -3,6 +3,13 @@ Logistic regression model using Python for classifying heart disease patients by
 
 <br>
 
+## Languages Used
+- Python
+- HTML
+- CSS
+
+<br>
+
 ## Tools
 
 > **For Model**
