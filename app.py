@@ -1,6 +1,3 @@
-import time
-from pickle import GLOBAL
-
 import numpy as np
 import pandas as pd
 from sklearn.model_selection import train_test_split
@@ -131,7 +128,8 @@ if raw_input:
     except AttributeError:
         pass
 
-# Show error and auto-hide after 2 seconds
+# Show error and auto-hide
+import time
 if st.session_state.show_error:
     with error_placeholder:
         st.error(st.session_state.paste_error)
@@ -242,7 +240,7 @@ try :
         st.subheader(f"🧾 Outcome")
         st.markdown(f"""
                     <div style='
-                        background-color: #fDfDfD;
+                        background-color: #f6f6f6;
                         color: #999;
                         padding: 10px 20px;
                         border-radius: 5px;
