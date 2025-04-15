@@ -248,7 +248,7 @@ try :
                         text-align: left;
                         box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.25);
                     '>
-                        📭 &nbsp Data Not Found
+                        📭 &nbsp Not Certain
                     </div>
                     <br>
                     """, unsafe_allow_html=True)
