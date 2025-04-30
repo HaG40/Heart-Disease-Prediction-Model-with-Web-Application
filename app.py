@@ -2,6 +2,7 @@ import numpy as np
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
+from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score
 
 import streamlit as st
@@ -16,7 +17,15 @@ Y = heart_data['target']
 X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size=0.15, stratify=Y, random_state=42)
 
 # Logistic Regression Model
-model = LogisticRegression()
+# model = LogisticRegression()
+# model.fit(X_train, Y_train)
+
+# Random Forest Classifier Model
+model = RandomForestClassifier(n_estimators=100,
+                               max_depth=10,
+                               min_samples_split=5,
+                               min_samples_leaf=2,
+                               random_state=42)
 model.fit(X_train, Y_train)
 
 # Accuracy On Train Set
