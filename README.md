@@ -3,7 +3,7 @@ Logistic regression model or random forest classifier model using Python for cla
 
 <br>
 
-## Languages Used
+## Languages Usage
 - Python
 - HTML
 - CSS
