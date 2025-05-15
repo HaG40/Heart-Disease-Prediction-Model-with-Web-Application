@@ -32,7 +32,7 @@ Logistic regression model or random forest classifier model using Python for cla
 <br>
 ![alt text](https://github.com/HAG40/Heart-Disease-Prediction-Model-with-Web-Application/blob/main/mse.png?raw=true)
 <br>
-
+<br>
 
 ## This Repository Included
 - **HeartDiseasePrediction.ipynb**
