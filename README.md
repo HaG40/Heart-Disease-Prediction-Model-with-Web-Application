@@ -56,5 +56,13 @@ Logistic regression model or random forest classifier model using Python for cla
 
 <br>
 
+## Web Application Usage
+- install all of the library or use anaconda env.
+- use "streamlit run *relative path of app.py*" to run the website
+- Enter an information in the site
+- click submit to see the result
+
+<br>
+
 ### \*\* Disclaimer \*\*
 This project is for educational purpose only. It is the University's project in AI subject
