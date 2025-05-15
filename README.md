@@ -27,8 +27,11 @@ Logistic regression model or random forest classifier model using Python for cla
 **Model Evaluation
 <br>
 ![alt text](https://github.com/HAG40/Heart-Disease-Prediction-Model-with-Web-Application/blob/main/confusionMatrix.png?raw=true)
+<br>
 ![alt text](https://github.com/HAG40/Heart-Disease-Prediction-Model-with-Web-Application/blob/main/evaluated.png?raw=true)
+<br>
 ![alt text](https://github.com/HAG40/Heart-Disease-Prediction-Model-with-Web-Application/blob/main/mse.png?raw=true)
+<br>
 
 
 ## This Repository Included
